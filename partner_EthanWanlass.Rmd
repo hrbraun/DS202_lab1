@@ -1,0 +1,14 @@
+---
+title: "partner_EthanWanlass.Rmd"
+author: "Ethan Wanlass"
+date: "9/11/2019"
+output: html_document
+---
+
+Your (the "Partner's") full name and GitHub username: Hailey Braun, hrbraun 
+
+What did the Owner do in the most recent commit? What is the commit ID? She added the answers to the question. Commit ID:3930e45
+
+Knit the Owner's `owner_YourName.Rmd`. Are you able to do so without error? If you cannot, what errors did you encounter? Yes
+
+Also include one tip for making Git/GitHub easier, or an error/difficulty you encountered. One tip is to picture what each step your doing is. A difficulty is the syntax and unfamiliarity. 
